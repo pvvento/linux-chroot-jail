@@ -1,6 +1,9 @@
 linux-chroot-jail
 =================
 
+`pvd` Paolo V.M. Distefano modified forked version (additions coming)
+
+-======================================-
 Scripts to jail Linux users for ssh, sftp and vsftp
 
 ## jailuser.sh
