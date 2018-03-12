@@ -27,7 +27,7 @@
 # ----------------------------------------------------------------------
 CHROOT_USERNAME=$1
 
-JAILPATH='/jail'
+JAILPATH='/jail0'
 mkdir -p $JAILPATH
 
 #
